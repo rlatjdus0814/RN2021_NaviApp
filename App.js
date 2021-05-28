@@ -27,6 +27,7 @@ function DetailsScreen({ navigation }) {
   );
 }
 
+
 const Stack = createStackNavigator();
 
 function App() {
